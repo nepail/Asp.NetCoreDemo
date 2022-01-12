@@ -1,6 +1,6 @@
 ﻿namespace Asp.NetCoreDemo.Models.Interfaces
 {
-    interface class IScoped
+    public interface IScoped : ISample
     {
     }
 }

@@ -1,6 +1,6 @@
 ﻿namespace Asp.NetCoreDemo.Models.Interfaces
 {
-    interface class ISample
+    public interface ISample
     {
     }
 }

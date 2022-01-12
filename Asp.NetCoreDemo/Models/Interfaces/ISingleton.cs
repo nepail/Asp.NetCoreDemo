@@ -1,6 +1,6 @@
 ﻿namespace Asp.NetCoreDemo.Models.Interfaces
 {
-    public class ISingleton
+    public interface ISingleton : ISample
     {
     }
 }

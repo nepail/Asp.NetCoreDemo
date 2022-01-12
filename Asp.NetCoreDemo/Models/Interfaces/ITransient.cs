@@ -1,6 +1,6 @@
 ﻿namespace Asp.NetCoreDemo.Models.Interfaces
 {
-    public class ITransient
+    public interface ITransient : ISample
     {
     }
 }
